@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1411849971 source:d:\github\hash\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1411849258 d:\github\hash\lista.h
+
+1411935283 source:d:\github\hash\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hash.h"
+	"time.h"
+
+1411935066 source:d:\github\hash\hash.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"hash.h"
+
+1411935305 d:\github\hash\hash.h
+	"lista.h"
+

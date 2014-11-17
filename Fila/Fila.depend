@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1411854394 source:d:\github\fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1411854380 source:d:\github\fila\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1411852954 d:\github\fila\fila.h
+

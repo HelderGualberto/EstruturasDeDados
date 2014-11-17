@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1411849271 source:d:\github\listaligada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1411849258 d:\github\listaligada\lista.h
+
+1411849898 source:d:\github\listaligada\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1412623195 source:d:\github\grafo\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+
+1412623029 source:d:\github\grafo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+
+1412622711 d:\github\grafo\grafo.h
+

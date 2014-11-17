@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1415619281 source:c:\users\helder.garjunior\downloads\dijkstra\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+
+1415619281 c:\users\helder.garjunior\downloads\dijkstra\grafo.h
+
+1415624177 source:c:\users\helder.garjunior\downloads\dijkstra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HEAP.h"
+
+1415624177 source:c:\users\helder.garjunior\downloads\dijkstra\heap.c
+	<stdio.h>
+	<stdlib.h>
+	"HEAP.h"
+	<limits.h>
+
+1415623825 c:\users\helder.garjunior\downloads\dijkstra\heap.h
+	"grafo.h"
+

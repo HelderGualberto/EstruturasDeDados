@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1411843131 source:d:\github\codificacaodehuffman\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"ARVORE.h"
+	"HEAP.h"
+
+1411842283 source:d:\github\codificacaodehuffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HEAP.h"
+	"ARVORE.h"
+
+1411841988 source:d:\github\codificacaodehuffman\heap.c
+	<stdio.h>
+	<stdlib.h>
+	"ARVORE.h"
+
+1411841988 d:\github\codificacaodehuffman\arvore.h
+
+1411841988 d:\github\codificacaodehuffman\heap.h
+	"ARVORE.h"
+
