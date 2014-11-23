@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1416676726 source:c:\users\helder\google drive\senac\4° semestre\estrutura de dados\buscaemprofundidade\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+	"pilha.h"
+
+1416674997 c:\users\helder\google drive\senac\4° semestre\estrutura de dados\buscaemprofundidade\grafo.h
+
+1416676528 source:c:\users\helder\google drive\senac\4° semestre\estrutura de dados\buscaemprofundidade\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+
+1416665716 source:c:\users\helder\google drive\senac\4° semestre\estrutura de dados\buscaemprofundidade\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1416666518 c:\users\helder\google drive\senac\4° semestre\estrutura de dados\buscaemprofundidade\pilha.h
+	"grafo.h"
+

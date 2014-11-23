@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1416672526 source:c:\users\helder\google drive\senac\4° semestre\estrutura de dados\buscaemlargura\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1416672522 c:\users\helder\google drive\senac\4° semestre\estrutura de dados\buscaemlargura\fila.h
+	"grafo.h"
+
+1416679192 c:\users\helder\google drive\senac\4° semestre\estrutura de dados\buscaemlargura\grafo.h
+
+1416680210 source:c:\users\helder\google drive\senac\4° semestre\estrutura de dados\buscaemlargura\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+
+1416680176 source:c:\users\helder\google drive\senac\4° semestre\estrutura de dados\buscaemlargura\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+	"fila.h"
+

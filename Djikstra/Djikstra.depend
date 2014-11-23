@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1416760589 source:c:\users\helder\google drive\senac\4° semestre\estrutura de dados\djikstra\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"HEAP.h"
+
+1416760717 c:\users\helder\google drive\senac\4° semestre\estrutura de dados\djikstra\grafo.h
+
+1416760558 source:c:\users\helder\google drive\senac\4° semestre\estrutura de dados\djikstra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HEAP.h"
+
+1416760636 c:\users\helder\google drive\senac\4° semestre\estrutura de dados\djikstra\heap.h
+	"grafo.h"
+
+1416759043 source:c:\users\helder\google drive\senac\4° semestre\estrutura de dados\djikstra\heap.c
+	<stdio.h>
+	<stdlib.h>
+	"HEAP.h"
+
