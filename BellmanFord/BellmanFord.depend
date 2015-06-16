@@ -11,3 +11,15 @@
 
 1416743979 c:\users\helder\google drive\senac\4° semestre\estrutura de dados\bellmanford\grafo.h
 
+1416746953 source:d:\github\estruturasdedados\bellmanford\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+
+1416743979 d:\github\estruturasdedados\bellmanford\grafo.h
+
+1416747396 source:d:\github\estruturasdedados\bellmanford\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+
